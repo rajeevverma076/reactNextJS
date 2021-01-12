@@ -1,0 +1,53 @@
+body{
+  background-color: #e4e4e4!important;
+}
+
+.image_div{
+  background-color: #e4e4e4;
+}
+.white_bg{
+  background-color: #fff;
+}
+.btn_green{
+  color: #000;
+  border: solid 1px #d0f0c0;
+  background-color: #d0f0c0;
+}
+.active_btn{
+  background-color: #28a745;
+  color: #000;
+}
+.border_bottom{
+  border-bottom: solid 1px #999;
+}
+.font_16{
+  font-size: 15px;
+  line-height: 20px;
+}
+.font_14{
+  font-size: 14px;
+  line-height: 18px;
+}
+.font_24{
+  font-size: 24px;
+  line-height: 26px;
+}
+.font_28{
+  font-size: 28px;
+  line-height: 32px;
+}
+.purple_color{
+  color: #52307c;
+}
+.font_weight_normal{
+  font-weight: normal;
+}
+.margin_bottom_30{
+  margin-bottom: 30px!important;
+}
+@media only screen and (max-width: 480px){
+  .header_font{
+      font-size: 26px;
+      line-height: 28px;
+  }
+}
